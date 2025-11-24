@@ -1,0 +1,17 @@
+# Folders
+output/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+ENV/
+.DS_Store
+Thumbs.db
